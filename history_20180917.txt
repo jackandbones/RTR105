@@ -1,21 +1,185 @@
     1  VirtualBox --startvm XP
     2  quartus
     3  u
-    4  echo $0
-    5  whoami
-    6  whoishe
-    7  whoisnext
-    8  who
-    9  whoami
-   10  pwd
-   11  powerdirector
-   12  p
-   13  man pwd
-   14  ls
-   15  ls - l
-   16  ls -l
-   17  ls -a
-   18  ls -la
-   19  history
-   20  3+4
-   21  history > history_20180917.txt
+    4  un
+    5  uname
+    6  unalias
+    7  man uname
+    8  uname - a
+    9  uname -a
+   10  echo $0
+   11  sh
+   12  echo $0
+   13  whoami
+   14  whoishe
+   15  whoisnext
+   16  who
+   17  whoami
+   18  pwd
+   19  powerdirector
+   20  p
+   21  man pwd
+   22  ls
+   23  ls - l
+   24  ls -l
+   25  ls -a
+   26  ls -la
+   27  history
+   28  3+4
+   29  ls
+   30  cat history_20180917.txt 
+   31  man uname
+   32  uname
+   33  sh
+   34  tty7
+   35  pwd
+   36  list
+   37  ls
+   38  ls -l
+   39  ls all
+   40  man ls
+   41  ls -a
+   42  who
+   43  whoai
+   44  whoami
+   45  @
+   46  pwd
+   47  ls
+   48  ls -a
+   49  ls -l
+   50  cd
+   51  cd Musik
+   52  cd music
+   53  cd Music/
+   54  ls
+   55  ls -l
+   56  ls -a
+   57  ls -la
+   58  cd .
+   59  cd pwd
+   60  pwd
+   61  cd ..
+   62  pwd
+   63  ls -la
+   64  pwd
+   65  cd .
+   66  cd ..
+   67  pwd
+   68  cd.
+   69  cd..
+   70  pwd
+   71  cd ..
+   72  pwd
+   73  ls -la
+   74  cd.
+   75  cd ..
+   76  pwd
+   77  cd /home/user
+   78  pwd
+   79  ~
+   80  cd /
+   81  pwd
+   82  cd
+   83  pwd
+   84  cd ../..
+   85  pwd
+   86  cd
+   87  pwd
+   88  cd home/user/
+   89  pwd
+   90  home/user/
+   91  pwd
+   92  mkdir ManaMape
+   93  ls
+   94  cd ManaMape
+   95  pwd
+   96  ls
+   97  ls -la
+   98  cd ..
+   99  pwd
+  100  /ManaMape$ cd ..
+  101  cd ..
+  102  ls
+  103  ls -a
+  104  pwd
+  105  cd ..
+  106  rmdir ManaMape/
+  107  cd
+  108  rmdir ManaMape/
+  109  mkdir ManaPapildusMape
+  110  pwd
+  111  cd ManaPapildusMape/
+  112  cd 
+  113  ls
+  114  rmdir ManaPapildusMape/
+  115  rm -r ManaMape/
+  116  man echo
+  117  echo  "Teksts"
+  118  >
+  119  echo "Teksts
+ren
+pen
+ten
+six
+"
+  120  echo "Teksts/nTeksts/nTeksts"
+  121  man echo
+  122  -e
+  123  quit
+  124  gg
+  125  good game
+  126  well played
+  127  how are you?
+  128  /alert
+  129  /a
+  130  /alert
+  131  cd
+  132  /alert
+  133  -e
+  134  /a
+  135  echo "Teksts/nTeksts/nTeksts"-
+  136  /a
+  137  >a
+  138  cd
+  139  pwd
+  140  echo "Teksts" > failsl.t.x
+  141  echo "Teksts" > failsl.txt
+  142  ls -l
+  143  echo "Cits teksts" > failsl.txt
+  144  ls -l
+  145  chmod 500 failsl.txt
+  146  ls -l
+  147  create nigga
+  148  nigga is born
+  149  echo P" > failsl.txt
+CD
+EXOT
+echo P" > failsl.txt
+  150  CD
+  151  EXOT
+  152  nano
+  153  nano failsl.t
+  154  cp failsl.txt fails3.txt
+  155  ls
+  156  ls -l
+  157  mv failsl.txt
+  158  mv failsl.txt Music/
+  159  ls -l
+  160  cd Music/
+  161  -l
+  162  l
+  163  cd ..
+  164  mv fails*.txt Music/
+  165  l
+  166  cd Music/
+  167  ls
+  168  mv fails3.txt fails4.txt
+  169  mv failsl.txt ../fails101.txt
+  170  ls
+  171  cd ..
+  172  ls
+  173  mv Music/*.txt ./
+  174  ls
+  175  rm fails*.txt
+  176  ls
+  177  history > history_20180917.txt
