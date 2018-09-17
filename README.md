@@ -7,7 +7,7 @@
 6.**CTRL+ALT F1-F7**, pārslēgšanās uz citām vidēm;  
 7.**CTRL+L** notīra termināļa lauku 
 
-**Simbolu komandas**  
+<h4>**Simbolu komandas**</h4>
 8.**|u|>TAB+TAB** Atver komandas uz u burta |Y/N| komandas apstiprināšana/noraidīšana, |Q| iziet ārā no komandām   
 9.**|uname|** man uname komandas, kas parāda versiju, un daudzas citas lietas par datoru  
 10.**|echo $0|** termināļa valodas noskaidrošana  
@@ -18,4 +18,9 @@
 15.**|ls|** mapes  
 16.**|ls -a|** paslēptās mapes  
 17.**|pwd|** atrašanās vieta  
-19.
+19.**|cd|**
+20. **|cp|** kopet
+21. **|mkdir|** Mapes izveidoshana
+22. **|rmdir|** Mapes izdzeshana
+23. **|nano|**
+24.
