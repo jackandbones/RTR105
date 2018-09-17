@@ -149,8 +149,8 @@ six
   144  ls -l
   145  chmod 500 failsl.txt
   146  ls -l
-  147  create nigga
-  148  nigga is born
+  147  creat
+  148  
   149  echo P" > failsl.txt
 CD
 EXOT
