@@ -20,7 +20,7 @@
 17.**|pwd|** atrašanās vieta  
 19.**|cd|**
 20. **|cp|** kopet
-21. **|mkdir|** Mapes izveidoshana
-22. **|rmdir|** Mapes izdzeshana
+21. **|mkdir|** Mapes izveidoshana  
+22. **|rmdir|** Mapes izdzeshana  
 23. **|nano|**
 24.

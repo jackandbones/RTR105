@@ -1,0 +1,81 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano mans_skripts.sh
+    4  ./mans_skripts.sh
+    5  ~/mans_skripts.sh
+    6  /home/user/mans_skripts.sh
+    7  permission allowed
+    8  permission
+    9  mans_skripts.sh
+   10  sudo
+   11  chmod
+   12  chmod 764 mans_skripts.sh
+   13  mans_skripts.sh
+   14  echo $path
+   15  echo $PATH
+   16  ls -l /bin | grep ls
+   17  echp $path
+   18  echo $PATH
+   19* +~~~
+   20  ls -l /bin | grep ls
+   21  PATH=$PATH
+   22  PATH=$PATH:~
+   23  echo $PATH
+   24  PATH=$PATH:.
+   25  echo $PATH
+   26  mans_skripts.sh 
+   27  ls -l
+   28  nano mans_skripts.sh
+   29  cd
+   30  pwd
+   31  -l
+   32  ls -l
+   33  nano mans_skripts.sh
+   34  rm -r Mape/
+   35  git clone https://github.com/jackandbones/rtr105
+   36  ls -l
+   37  mv mans_skripts.sh RTR105
+   38  mv mans_skripts.sh rtr105/
+   39  ~/rtr105 ls -l
+   40  nano README.md
+   41  ls -l
+   42  nano RTR105
+   43  nano rtr105
+   44  mv RTR105 mans_skripts.sh
+   45  ls -l
+   46  mv mans_skripts.sh rtr105/
+   47  ls -l
+   48  cd rtr105/
+   49  ls -l
+   50  nano README.md 
+   51  nano README.md
+   52  ls -l
+   53  pwd
+   54  ls -l
+   55  history > history_20181001a.txt
+   56  ls -l
+   57  babi git-upload
+   58  cd 
+   59  nano git-upload
+   60  -ls
+   61  rs
+   62  -ls
+   63  chmod 764 git-upload
+   64  ls -l
+   65  ./git-upload 20181001_11_45
+   66  git clone https://github.com/jackandbones/rtr105master
+   67  ./git-upload 20181001_11_45
+   68  .git
+   69  -ls
+   70  ./git-upload 20181001_11_45
+   71  ls -l
+   72  git-upload
+   73  nano git-upload
+   74  ./git-upload 20181001_11_45
+   75  ls -l
+   76  mv git-upload rtr105/
+   77  ls -l
+   78  cd rtr105/
+   79  ls -l
+   80  nano git-upload 
+   81  history > history_20181001a.txt
